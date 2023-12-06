@@ -1,0 +1,16 @@
+{
+    "name": "Game App",
+    "short_name": "GameApp",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#7239B3",
+    "theme_color": "#7239B3",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/assets/img/icon.svg",
+            "type": "image/svg+xml",
+            "sizes": "32×32, 48x48, 72x72, 96x96, 128x128, 192x192, 512x512"
+        }
+    ]
+}
